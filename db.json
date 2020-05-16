@@ -1,31 +1,23 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "process":
+            [
+               {
+               "_id": "5eac03f0d1ad65fb8939b9d0",
+               "pid": 1,
+               "name": "NA CSB CARE",
+               "image": "T.B.D."
+               },
+               {
+               "_id": "5eac0417d1ad65fb8939b9f5",
+               "pid": 2,
+               "name": "EMEA CSB CARE",
+               "image": "T.B.D."
+               },
+               {
+               "_id": "5eaffe01ff0a8e6efec15615",
+               "pid": 3,
+               "name": "NA COMMERCIAL CARE",
+               "image": "T.B.D."
+               }
+            ]
 }
