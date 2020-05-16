@@ -30,6 +30,11 @@
                   "Process_Id" : 2,
                   "Role" : 2
               }
-            ]
+            ],
+  "userData" : 
+  { 
+    "name" : "Jane Doe",
+    "email" : "JaneDoe@gmail.com"
+  }
  
 }
