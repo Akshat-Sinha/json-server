@@ -19,5 +19,13 @@
                "name": "NA COMMERCIAL CARE",
                "image": "T.B.D."
                }
+            ],
+   "userAccessProcess":
+            [ 
+              {
+                  "Process_Id" : 1,
+                  "Role" : 2
+              }
             ]
+ 
 }
