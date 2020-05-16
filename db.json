@@ -32,9 +32,13 @@
               }
             ],
   "userData" : 
-  { 
-    "name" : "Jane Doe",
-    "email" : "JaneDoe@gmail.com"
-  }
+            { 
+              "name" : "Jane Doe",
+              "email" : "JaneDoe@gmail.com"
+            },
+  "userRoles" :
+    {
+    "role" : 1
+    }
  
 }
