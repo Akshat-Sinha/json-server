@@ -39,6 +39,9 @@
   "userRoles" :
     {
     "role" : 1
+    },
+    {
+    "role" : 0
     }
  
 }
