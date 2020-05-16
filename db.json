@@ -36,12 +36,13 @@
               "name" : "Jane Doe",
               "email" : "JaneDoe@gmail.com"
             },
-  "userRoles" :
+  "userRoles" : [
     {
     "role" : 1
     },
     {
     "role" : 0
     }
+    ]
  
 }
