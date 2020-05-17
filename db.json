@@ -5,19 +5,19 @@
                "_id": "5eac03f0d1ad65fb8939b9d0",
                "pid": 1,
                "name": "NA CSB CARE",
-               "image": "T.B.D."
+               "image": "../assets/images/pic2.PNG"
                },
                {
                "_id": "5eac0417d1ad65fb8939b9f5",
                "pid": 2,
                "name": "EMEA CSB CARE",
-               "image": "T.B.D."
+               "image": "../assets/images/pic1.PNG"
                },
                {
                "_id": "5eaffe01ff0a8e6efec15615",
                "pid": 3,
                "name": "NA COMMERCIAL CARE",
-               "image": "T.B.D."
+               "image": "../assets/images/pic3.PNG"
                }
             ],
    "userAccessProcess":
