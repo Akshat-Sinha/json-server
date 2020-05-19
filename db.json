@@ -18,6 +18,12 @@
                "pid": 3,
                "name": "NA COMMERCIAL CARE",
                "image": "../assets/images/pic3.PNG"
+               },
+              {
+               "_id": "kodasidmcd6efec15615",
+               "pid": 4,
+               "name": "Training Manual",
+               "image": "../assets/images/pic3.PNG"
                }
             ],
    "userAccessProcess":
