@@ -83,6 +83,83 @@
          0
       ],
       "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"Trainer Certification",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"New Hire Training",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"Types of support",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"Teams & Interaction",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"Roles & Responsibilities",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"ID's & Access - Self",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
+   },
+    {
+      "_id":"5eb58228933b7a0d6d9e96a8",
+      "name":"A typical Day",
+      "type":4,
+      "link":"www.delltrainings.com/Introduction.mkv",
+      "image":"T.B.D.",
+      "processName":[
+         0
+      ],
+      "status_Flag":true
    }
 ]
  
